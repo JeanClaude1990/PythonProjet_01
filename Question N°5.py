@@ -1,0 +1,5 @@
+x= np.arange(6).reshape(3, 2)
+print("Les elements du tableau:")
+print(x)
+print("Tableau en Liste:")
+print(x.tolist())
